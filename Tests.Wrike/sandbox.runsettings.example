@@ -1,0 +1,13 @@
+<RunSettings>
+    <TestRunParameters>
+        <Parameter name="SandboxSpaceId" value="" />
+        <Parameter name="SandboxFolderId" value="" />
+        <Parameter name="SandboxCustomFieldId" value="" />
+        <Parameter name="SandboxRequestFormId" value="" />
+        <Parameter name="SandboxFormAnswers" value="[]" />
+        <Parameter name="SandboxUserId" value="" />
+        <Parameter name="AllowAdministration" value="false" />
+        <Parameter name="AllowFormSubmission" value="false" />
+        <Parameter name="CallbackUrl" value="" />
+    </TestRunParameters>
+</RunSettings>

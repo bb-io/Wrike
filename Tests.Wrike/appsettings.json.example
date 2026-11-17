@@ -1,0 +1,10 @@
+{
+  "ConnectionDefinition": {
+    "client_id": "",
+    "client_secret": "",
+    "host": "www.wrike.com",
+    "access_token": "",
+    "refresh_token": "",
+    "permission_profile": "work"
+  }
+}

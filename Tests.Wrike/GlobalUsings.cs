@@ -1,0 +1,10 @@
+global using Microsoft.VisualStudio.TestTools.UnitTesting;
+global using Tests.Wrike.Base;
+global using Apps.Wrike.Actions;
+global using Apps.Wrike.Models.Requests;
+global using Apps.Wrike.Models.Identifiers;
+global using Apps.Wrike.Models.Responses;
+global using Apps.Wrike.Models.Dtos;
+global using Apps.Wrike.Extensions;
+global using RestSharp;
+global using Newtonsoft.Json;
