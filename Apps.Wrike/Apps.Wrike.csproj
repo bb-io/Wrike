@@ -5,7 +5,7 @@
         <Nullable>enable</Nullable>
         <Product>Wrike</Product>
         <Description>Automate tasks, approvals and collaboration across spaces.</Description>
-        <Version>1.0.4</Version>
+        <Version>1.0.5</Version>
         <AssemblyName>Apps.Wrike</AssemblyName>
         <PackageId>Apps.Wrike</PackageId>
         <RootNamespace>Apps.Wrike</RootNamespace>
@@ -19,6 +19,6 @@
     </ItemGroup>
     <ItemGroup>
         <EmbeddedResource Include="image/icon.png" />
-        <EmbeddedResource Include="../README.md" Link="README.md" />
+        <EmbeddedResource Include="..\README.md" Link="README.md" CopyToOutputDirectory="Always" />
     </ItemGroup>
 </Project>
